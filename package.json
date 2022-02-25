@@ -9,10 +9,9 @@
     "preact-render-to-string": "^5.1.19",
     "probe-image-size": "^5.0.0",
     "sockjs": "^0.3.21",
-    "ts-node": "^10.0.0"
+    "ts-node": "^10.5.0"
   },
   "optionalDependencies": {
-    "better-sqlite3": "^7.1.0",
     "cloud-env": "^0.2.3",
     "githubhook": "^1.9.3",
     "node-static": "^0.7.11",
